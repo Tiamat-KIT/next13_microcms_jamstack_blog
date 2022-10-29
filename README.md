@@ -1,2 +1,2 @@
-# nexxt13_microcms_jamstack_blog
+# next13_microcms_jamstack_blog
 Next13でmicroCMSを使ったJamStackなブログを作成するためのテンプレートリポジトリ
