@@ -1,3 +1,4 @@
+"use client"
 import Link from "next/link";
 import { FC, PropsWithChildren, useState } from "react";
 import "../styles/globals.scss"
