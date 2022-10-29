@@ -8,7 +8,6 @@ const RootLayout:FC<PropsWithChildren> = ({children}) => {
             </head>
             <body>
                 <p>root layouts</p>
-                <p>created by {process.env.UserName} </p>
                 {children}
             </body>
         </html>
