@@ -1,4 +1,3 @@
-"use client"
 import { FC, PropsWithChildren} from "react";
 import Navbar from "../Component/Navbar";
 import "../styles/globals.scss"
