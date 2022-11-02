@@ -14,7 +14,7 @@ export default function Header(){
     return (
         <header className="border-b border-gray-300 py-2">
             <div className="flex items-center justify-between xl:max-w-7xl xl:mx-auto max-w-full px-[8%] flex-wrap w-full">
-                <h3>Template</h3>
+                <h3>Template at {process.env.UserName}</h3>
                     <FiMenu className="lg:hidden block h-6 w-6 cursor-pointer" onClick={() => !open}/>
                     <nav className={`${open ? "block" :  "hidden" } w-full lg:flex lg:items-center lg:w-auto`}>
                         <ul className="text-base text-gray-600 lg:flex lg:justify-between">
