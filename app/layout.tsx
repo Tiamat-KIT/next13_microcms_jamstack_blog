@@ -47,7 +47,7 @@ const RootLayout:FC<PropsWithChildren> = ({children}) => {
                         <span className="ml-3 text-xl">Template</span>
                     </a>
                     <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">Mytemplate
-                        <a  className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@knyttneve</a>
+                        <a  className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">RoboCup@Home Project in KIT 広報班</a>
                     </p>
                     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                         <a className="text-gray-500">
